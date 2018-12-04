@@ -1,0 +1,15 @@
+name: keras_gpu_env
+dependencies:
+- python=3.6
+- ipython
+- jupyter
+- numpy
+- pip
+- scikit-learn
+- scipy
+- tensorflow-gpu=1.11
+- keras
+- matplotlib
+- scikit-image
+- pandas
+- opencv
